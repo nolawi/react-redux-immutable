@@ -9,7 +9,9 @@ ToDo:
 
 * add redux dev tools.
 * how to mk a reducer using immutable data.
-* create a project board.
+* create gh-page.
+* ui.
+
 
 To launch the app:
 
