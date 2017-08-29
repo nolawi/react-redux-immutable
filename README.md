@@ -2,7 +2,7 @@
 
 This app for learing:
 
-* how to use `redux-immutable` `combineReducers`.
+* how to use `redux immutable` `combineReducers`.
 
 
 ToDo:
